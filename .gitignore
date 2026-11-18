@@ -1,0 +1,8 @@
+.mimocode
+.venv
+logs/
+intents/
+certificates/
+output/
+rules/*.yml
+servers-ssh.ini
